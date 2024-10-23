@@ -1,5 +1,7 @@
 class Employee {
-
+    constructor(name) {
+        
+    }
 
 
     
